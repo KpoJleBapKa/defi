@@ -3,3 +3,8 @@ Build/
 *.pro.user
 wallet.json
 recipient-wallet.json
+artifacts/
+cache/
+coverage/
+node_modules/
+typechain-types/
