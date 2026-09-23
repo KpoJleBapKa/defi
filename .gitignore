@@ -1,0 +1,5 @@
+Build/
+.vs/
+*.pro.user
+wallet.json
+recipient-wallet.json
