@@ -8,3 +8,5 @@ cache/
 coverage/
 node_modules/
 typechain-types/
+.lab3/
+frontend/dist/
