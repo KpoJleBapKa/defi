@@ -1,0 +1,17 @@
+{
+  "name": "solovian-defi-lab6",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "hardhat build",
+    "liquidate": "node --env-file=.env scripts/liquidator-bot.js"
+  },
+  "devDependencies": {
+    "ethers": "^6.17.0",
+    "hardhat": "^3.17.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1"
+  }
+}
