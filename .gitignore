@@ -1,5 +1,4 @@
-Build/
-.vs/
-*.pro.user
-wallet.json
-recipient-wallet.json
+node_modules/
+artifacts/
+cache/
+coverage/
